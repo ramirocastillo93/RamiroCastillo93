@@ -10,9 +10,18 @@
 
 ### Technologies
 
-💻 Cloud Computing (AWS, GCP)
+💻 Cloud Computing
+- AWS
+- GCP
 
-🚀 DevOps (Docker, Kubernetes, Terraform, Helm, Istio, GitHub Actions, Gitlab CI)
+🚀 DevOps
+- Docker
+- Kubernetes
+- Terraform
+- Helm
+- Istio
+- GitHub Actions
+- Gitlab CI
 
 🤖 Programming Languages:
 - Python
