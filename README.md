@@ -13,11 +13,11 @@ https://iamramiro.io -->
     - Nodejs
     - Javascript
 
-### Projects
+<!-- ### Projects
 Here are a few of the projects I'm currently working on:
 
-Project 1: A cloud-based microservices application built with Docker and Kubernetes.
-Project 2: An automated CI/CD pipeline for deploying applications using GitHub Actions.
+- Project 1: A cloud-based microservices application built with Docker and Kubernetes.
+- Project 2: An automated CI/CD pipeline for deploying applications using GitHub Actions. -->
 
 ### Contact Me
 You can reach me through my LinkedIn or via email at [ramirocastillo93@gmail.com].
