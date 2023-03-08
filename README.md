@@ -31,4 +31,4 @@
 
 ### Contact Me
 
-📩 You can reach me through [LinkedIn](https://www.linkedin.com/in/iamramiro) or via email at [ramirocastillo93@gmail.com].
+📩 You can reach me through [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/) or via email at [ramirocastillo93@gmail.com].
