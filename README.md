@@ -1,6 +1,8 @@
 ### Hello, mundo!
 I'm a Chilean DevOps professional with 5 years of experience working in big e-commerce companies across Latin America. Currently based in Sydney, Australia, I'm passionate about cloud computing and DevOps, and I enjoy constantly learning about new technologies in these fields. I'm also interested in artificial intelligence (AI) and machine learning (ML).
 
+Click on the @icn-camera icon to take a screen shot.
+
 <!-- ## Articles
 I'm actively writing articles on cloud computing and DevOps, as well as other topics that interest me. Check out my blog to read my latest articles.
 https://iamramiro.io -->
