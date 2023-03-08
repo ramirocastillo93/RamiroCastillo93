@@ -15,9 +15,9 @@
 🚀 DevOps (Docker, Kubernetes, Terraform, Helm, Istio, GitHub Actions, Gitlab CI)
 
 🤖 Programming Languages:
-    - Python
-    - Nodejs
-    - Javascript
+- Python
+- Nodejs
+- Javascript
 
 <!-- ### Projects
 
