@@ -1,5 +1,4 @@
-## Hello, mundo!
-### About Me
+### Hello, mundo!
 I'm a Chilean DevOps professional with 5 years of experience working in big e-commerce companies across Latin America. Currently based in Sydney, Australia, I'm passionate about cloud computing and DevOps, and I enjoy constantly learning about new technologies in these fields. I'm also interested in artificial intelligence (AI) and machine learning (ML).
 
 <!-- ## Articles
