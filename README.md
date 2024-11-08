@@ -6,7 +6,7 @@
 
 ### Articles
 
-📝 I'm actively writing articles on cloud computing and DevOps, as well as other topics that interest me. Check out my [blog](https://medium.com/@noobops) to read my latest articles.
+📝 I'm actively writing articles on cloud computing and DevOps, as well as other topics that interest me. Check out my [blog](https://medium.com/@facelessnomad) to read my latest articles.
 
 ### Technologies
 
